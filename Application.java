@@ -36,7 +36,6 @@ class Main {
       sourceFile.read(array);
 
       // writes all data to newFile
-      destFile.write(array);
-      System.out.println("The input.txt file is copied to newFile.");
-
+ //Demo for git fetch command
+      
 }
