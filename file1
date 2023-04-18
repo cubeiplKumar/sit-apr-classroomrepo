@@ -3,3 +3,9 @@ services
 registration page
 login page
 reports
+
+
+For JENKINS AUTOBUILD JOB DEMO
+
+Jenkins Pipeline is afature fo the jenkins build server, 
+deployed as plugin which lets you to implement delivery pipeline
