@@ -9,3 +9,8 @@ For JENKINS AUTOBUILD JOB DEMO
 
 Jenkins Pipeline is afature fo the jenkins build server, 
 deployed as plugin which lets you to implement delivery pipeline
+
+
+for Jenkins Webhook Job Demo
+When any change have been done in code repository
+  jenkins triggered and fetch the code from github repo.
